@@ -1,2 +1,2 @@
 # ecomponent
-electric component simulation
+electric circuit simulation
